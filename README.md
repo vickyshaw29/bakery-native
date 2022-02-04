@@ -1,6 +1,4 @@
 
-# File System
-
 The app is made using react-native and firebase
 
 
